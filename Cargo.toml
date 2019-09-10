@@ -1,0 +1,10 @@
+[package]
+name = "hdc2080_rust"
+version = "0.1.0"
+authors = ["tbigler <tbwork@gmx.net>"]
+edition = "2018"
+
+[dependencies]
+embedded-hal = "0.2.3"
+linux-embedded-hal = "0.2.2"
+
